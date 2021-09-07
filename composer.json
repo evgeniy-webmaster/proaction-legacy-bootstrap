@@ -2,9 +2,6 @@
   "name": "evgeniy-webmaster/proaction-legacy-bootstrap",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "type": "proaction-bower-legacy",
-  "require": {
-    "composer/installers": "*"
-  },
   "keywords": [
     "css",
     "js",
